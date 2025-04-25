@@ -28,7 +28,7 @@ namespace workshop_Thread_2
                 new Thread(
                     new ThreadStart(() =>
                     {
-                        System.Threading.Parallel.For(0, 10, i =>
+                        System.Threading.Tasks.Parallel.For(0, 10, i =>
                         {
                             Console.WriteLine(@"{0}",an_type.msg_pext);
                             Thread.Sleep(1000);
