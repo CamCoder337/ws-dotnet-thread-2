@@ -1,0 +1,6 @@
+C:\Users\Fred Tchiadeu\RiderProjects\workshop-Thread-2\workshop-Thread-2\bin\Debug\workshop_Thread_2.exe
+C:\Users\Fred Tchiadeu\RiderProjects\workshop-Thread-2\workshop-Thread-2\bin\Debug\workshop_Thread_2.pdb
+C:\Users\Fred Tchiadeu\RiderProjects\workshop-Thread-2\workshop-Thread-2\obj\Debug\workshop-Thread-2.csproj.AssemblyReference.cache
+C:\Users\Fred Tchiadeu\RiderProjects\workshop-Thread-2\workshop-Thread-2\obj\Debug\workshop-Thread-2.csproj.CoreCompileInputs.cache
+C:\Users\Fred Tchiadeu\RiderProjects\workshop-Thread-2\workshop-Thread-2\obj\Debug\workshop_Thread_2.exe
+C:\Users\Fred Tchiadeu\RiderProjects\workshop-Thread-2\workshop-Thread-2\obj\Debug\workshop_Thread_2.pdb
